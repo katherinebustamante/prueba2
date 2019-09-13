@@ -1,0 +1,185 @@
+@font-face {
+    font-family: 'Alegreya';
+    src: url("font-family: 'Alegreya', serif;") format("opentype");
+	 src: url("font-family: 'Alegreya Sans', sans-serif;") format("opentype");
+	
+}
+
+body{
+	font-family: Alegreya;
+	font-size: 14px;
+	color: #666;
+}
+header{
+	background-color: #202020;
+}
+
+
+
+#hero{
+	background-image: url( "../img/hero-image.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+    padding: 10% 0;
+    color: #FFFFFF;
+    position: relative;
+    height: 100vh;
+	text-align: center;
+}
+
+#hero h2{
+	font-size: 80px;
+	padding: 20px 0;
+}
+
+#hero p{
+	font-size: 24px;
+	padding: 20px 0;
+	font: 'Alegreya Sans';
+}
+
+
+.btn-light-learn{
+    border-radius: 2;
+   
+	background-color: #8e7754;
+	border-color: transparent;
+    font-size: 13px;
+    letter-spacing: 1px;
+	color: #FFFFFF;
+	padding: 10px 30px;
+	font: 'Alegreya Sans';
+}
+
+
+.btn-light-trans{
+    background-color: transparent;
+	border-color: #FFFFFF;
+    font-size: 13px;
+    letter-spacing: 1px;
+	color: #FFFFFF;
+	border-radius: 2;
+	padding: 10px 30px;
+	font: 'Alegreya Sans';
+	
+} 
+
+
+#who-we-are{
+	padding: 60px 0;
+}
+
+
+
+#who-we-are p{
+	padding: 10px 0;
+	font: 'Alegreya Sans';
+}
+
+
+#who-we-are .fab{
+    background-color: #28D1A2;
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    color: #fff;
+}
+
+
+.titulo{
+	text-align: left;
+	padding-top: 30px;
+	font-family: "Times New Roman";
+	width: 300;
+	font-size: 30px;
+	color: #000000;
+	font: 'Alegreya';
+	
+}
+
+#who-we-are .fa-users{
+	
+	color: #8e7754;
+	font-size: 30px;
+}
+
+#who-we-are .fa-heart{
+	
+	color: #8e7754;
+	font-size: 30px;
+}
+
+#who-we-are .fa-leaf{
+	
+	color: #8e7754;
+	font-size: 30px;
+}
+
+#who-we-are .fa-check{
+	
+	color: #8e7754;
+	font-size: 30px;
+}
+
+
+#who-we-are h6{
+	
+	
+	font-size: 20px;
+}
+
+
+#who-we-are p{
+	font-size: 20px;
+}
+
+#location p{
+	font-size: 20px;
+}
+
+
+#backing{
+	padding: 80px 0;
+}
+
+.titulo-bake{
+	text-align: center;
+	font-size: 40px;
+	font: 'Alegreya';
+}
+
+
+.bagel:hover{
+     color: rgba(155,60,219,0.51);   
+}
+
+#backing .pan{
+	text-align: center;
+	padding-top: 40px;
+	font: 'Alegreya Sans';
+}
+
+#backing p{
+	text-align: center;
+	font: 'Alegreya Sans';
+}
+
+
+
+
+
+
+
+
+footer{
+	background-color: #353330;
+	padding: 15px 0;
+	color: #777;
+	text-align: center;
+}
+footer img {
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
